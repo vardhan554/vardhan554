@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vishnu Vardhan Kondaveeti
-- 👀 I’m a Data Enthusiast & Cloud Practioner
-- 🌱 Currently pursuing Masters in Business Analytics from University of North Texas, Denton
-- 💞️ Looking for Data Engineer roles
-- 📫 You can reach me via mail vardhankondaveeti@gmail.com & 469-797 9509
+- Vishnu Vardhan Kondaveeti
+- |Data Engineer|Cloud Practioner|
+- Masters in Business Analytics - University of North Texas, Denton
+- vardhankondaveeti@gmail.com & +1 469-797 9509
